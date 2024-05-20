@@ -1,0 +1,2 @@
+mpicc -o problema_6 problema_6.c
+mpiexec -n 2 ./problema_6
